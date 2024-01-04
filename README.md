@@ -1,6 +1,6 @@
 # Late Night at Bon's
 
-## Late Night at Bon's 1
+## Late Night at Bon's
 
 Late Night At Bon's is a short video game based on The Walten Files. The game is mostly based on the death of Susan Woodings. You must use different tools to repair Bon without meeting the same fate as Susan.
 
