@@ -10,7 +10,7 @@ Late Night At Bon's 2 is an arcade-style game which is based on The Walten Files
 
 ## Usage
 
-Simply download `Late Night at Bon's.zip`, extract all files, and navigate through `Dist` to `Late_Night_At_Bons.exe`.
+Simply download `Late_Night_At_Bon's.zip` or `Late_Night_At_Bon's_2.zip`, extract all files, and navigate through `Dist` to `Late_Night_At_Bons.exe`.
 
 ## License
 
